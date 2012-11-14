@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Screen"
+    >
+    <TextView
+        android:id="@+id/textStatus"
+        style="@style/StatusText"
+        />
+    <Button
+        android:id="@+id/buttonMasterToggle"
+        style="@style/MainButton"
+        android:text="@string/start"
+        />
+</LinearLayout>
+
